@@ -1,0 +1,8 @@
+int main() {
+}
+
+void fun() {
+}
+
+int max(int a){
+}
