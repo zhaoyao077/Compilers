@@ -1,6 +1,6 @@
 # compilers
-NJUSE Compiler lecture lab code
 
+The code is for Compilers labs in Software Institute of Nanjing University.
 
 
 ## Lab Intro
